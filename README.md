@@ -12,6 +12,3 @@
   
   <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnathanL)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnathanL)](https://github.com/JhonnathanL/github-readme-stats)
-
