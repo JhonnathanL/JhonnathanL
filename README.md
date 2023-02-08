@@ -1,4 +1,4 @@
-## Estudante de Ciências da Computação com foco em desenvolvimento back-end em Python, Java, C e C++, e também possui conhecimento em Front-end com React, HTML, CSS e Javascript, além de ter experiência com banco de dados MySQL.
+##    Estudante de Ciências da Computação com experiência em desenvolvimento back-end em Python, Java, C e C++, e também possuo conhecimento em Front-end com React, HTML, CSS e Javascript, além de ter experiência com banco de dados MySQL.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +12,6 @@
   
   <br>
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnathanL)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnathanL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnathanL)](https://github.com/JhonnathanL/github-readme-stats)
 
