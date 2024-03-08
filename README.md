@@ -1,4 +1,4 @@
-###   Graduado de Ciências da Computação com experiência em desenvolvimento Full-Stack em JavaScript, Python, Node.JS, ReactJS, HTML, CSS.
+###   Graduado de Ciências da Computação com experiência em SQL, Python, JavaScript, Node.JS, ReactJS, HTML, CSS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
