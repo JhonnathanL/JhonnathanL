@@ -1,4 +1,4 @@
-## 🌍 README | [🇧🇷 Versão em Português](#portugues) | [🇺🇸 English Version](#english)
+## 🌍 README | [🇧🇷 Versão em Português](#portugues) 
 
 ---
 
@@ -29,31 +29,3 @@ Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de softwa
 📧 Email: jhonnathan890@gmail.com 
 💼 LinkedIn: [(https://www.linkedin.com/in/jhonnathan-sousa/)](https://www.linkedin.com/in/jhonnathan-sousa)  
 
----
-
-<a id="english"></a>
-## 🇺🇸 About Me  
-🎯 **Data Analyst | Software Developer**  
-📊 **Experience:** 3 years in data analysis | Transitioning to full stack development  
-🌍 **Looking for remote opportunities paid in dollars**  
-💡 **Stack:** Python | SQL | FastAPI | Front-end  
-
-### 🚀 About Me  
-I'm a technology enthusiast with a passion for data and software development. With 3 years of experience in data analysis, I am expanding my expertise into full stack development. Currently, I am working with **FastAPI** and exploring front-end technologies to create complete and efficient solutions.  
-
-### 🔧 Skills  
-✅ **Data Analysis:** Python, Pandas, SQL, Power BI  
-✅ **Back-end:** FastAPI, PostgreSQL  
-✅ **Front-end:** React, JavaScript  
-✅ **Version Control:** Git, GitHub  
-
-### 🌟 What You’ll Find Here  
-📌 **Data analysis projects** and interactive dashboards 📊  
-📌 **APIs built with FastAPI** and database integrations ⚙️  
-📌 **Front-end projects** to expand my full stack expertise 💻  
-
----
-
-## 📫 Contact  
-📧 Email: jhonnathan890@gmail.com  
-💼 LinkedIn: [(https://www.linkedin.com/in/jhonnathan-sousa/)]([https://www.linkedin.com/in/jhonnathan-sousa](https://www.linkedin.com/in/jhonnathan-sousa/?locale=en_US))  
