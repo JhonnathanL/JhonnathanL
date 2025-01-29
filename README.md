@@ -1,4 +1,4 @@
-# 🌍 README | [🇧🇷 Versão em Português](#portugues) | [🇺🇸 English Version](#english)
+## 🌍 README | [🇧🇷 Versão em Português](#portugues) | [🇺🇸 English Version](#english)
 
 ---
 
