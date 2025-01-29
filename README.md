@@ -27,7 +27,7 @@ Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de softwa
 
 ## 📫 Contato  
 📧 Email: jhonnathan890@gmail.com 
-💼 LinkedIn: [[Seu LinkedIn](https://www.linkedin.com/in/jhonnathan-sousa/)](https://www.linkedin.com/in/seu-perfil)  
+💼 LinkedIn: [(https://www.linkedin.com/in/jhonnathan-sousa/)](https://www.linkedin.com/in/jhonnathan-sousa)  
 
 ---
 
@@ -55,5 +55,5 @@ I'm a technology enthusiast with a passion for data and software development. Wi
 ---
 
 ## 📫 Contact  
-📧 Email: [jhonnathan890@gmail.com]  
-💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/jhonnathan-sousa/?locale=en_US)](https://www.linkedin.com/in/your-profile)  
+📧 Email: jhonnathan890@gmail.com  
+💼 LinkedIn: [(https://www.linkedin.com/in/jhonnathan-sousa/)]([https://www.linkedin.com/in/jhonnathan-sousa](https://www.linkedin.com/in/jhonnathan-sousa/?locale=en_US))  
