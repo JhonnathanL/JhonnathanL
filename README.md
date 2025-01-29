@@ -1,8 +1,3 @@
-## 🌍 README | [🇧🇷 Versão em Português](#portugues) 
-
----
-
-<a id="portugues"></a>
 ## 🇧🇷 Sobre mim  
 🎯 **Analista de Dados | Desenvolvedor de Software**  
 📊 **Experiência:** 3 anos em análise de dados | Em transição para desenvolvimento full stack  
