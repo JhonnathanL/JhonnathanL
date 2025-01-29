@@ -29,4 +29,4 @@ Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de softwa
 
 📫 **Vamos conversar!**  
 📧 Email: jhonnathan890@gmail.com 
-💼 LinkedIn: ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jhonnathan-sousa/))  
+💼 LinkedIn: ([https://www.linkedin.com/in/jhonnathan-sousa](https://www.linkedin.com/in/jhonnathan-sousa/))  
