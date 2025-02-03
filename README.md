@@ -8,7 +8,7 @@
 Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de software. Com 3 anos de experiência em análise de dados, estou expandindo meus horizontes para o desenvolvimento full stack. No momento, estou trabalhando com **FastAPI** e explorando tecnologias de front-end para criar soluções completas e eficientes.  
 
 ### 🔧 Habilidades  
-✅ **Análise de Dados:** Python, Pandas, SQL, Power BI  
+✅ **Análise de Dados:** Python, Pandas, SQL, Power BI, Apache Spark  
 ✅ **Back-end:** FastAPI, PostgreSQL  
 ✅ **Front-end:** React, JavaScript  
 ✅ **Versionamento:** Git, GitHub  
