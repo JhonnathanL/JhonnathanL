@@ -1,7 +1,6 @@
 ## Sobre mim  
 🎯 **Analista de Dados | Desenvolvedor de Software**  
-📊 **Experiência:** 3 anos em desenvolvimento Full Stack  
-🌍 **Buscando oportunidades remotas pagas em dólar**  
+📊 **Experiência:** 3 anos em desenvolvimento Full Stack    
 💡 **Stack:** Python | SQL | FastAPI | Front-end  
 
 ### 🚀 Sobre mim  
