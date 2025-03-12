@@ -4,7 +4,7 @@
 💡 **Stack:** Python | SQL | FastAPI | Front-end  
 
 ### 🚀 Sobre mim  
-Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de software. Com 3 anos de experiência em desenvolvimento Full Stack.  
+Sou um profissional apaixonado por tecnologia, dados e desenvolvimento de software. Com 3 anos de experiência em desenvolvimento Full Stack e pós-graduação em Full Stack, estou sempre em busca de novos desafios e aprendizado contínuo. 
 
 ### 🔧 Habilidades  
 ✅ **Análise de Dados:** Python, Pandas, SQL, Power BI, Apache Spark  
