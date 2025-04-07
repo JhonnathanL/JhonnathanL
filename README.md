@@ -8,7 +8,7 @@ Sou um profissional apaixonado por tecnologia, dados e Desenvolvimento de softwa
 
 ### 🔧 Habilidades  
 ✅ **Análise de Dados:** Python, Pandas, SQL, Power BI, Apache Spark  
-✅ **Back-end:** FastAPI, Express, PostgreSQL, C# 
+✅ **Back-end:** FastAPI, Express, PostgreSQL, C\# 
 ✅ **Front-end:** React, Typescript, JavaScript  
 ✅ **Versionamento:** Git, GitHub  
 
