@@ -1,5 +1,5 @@
 ## Sobre mim  
-🎯 **Analista de Dados | Desenvolvedor de Software**  
+🎯 **Desenvolvedor de Sistemas | Desenvolvedor de Software**  
 📊 **Experiência:** 3 anos em desenvolvimento Full Stack    
 💡 **Stack:** Python | SQL | FastAPI | Front-end  
 
@@ -8,7 +8,7 @@ Sou um profissional apaixonado por tecnologia, dados e Desenvolvimento de softwa
 
 ### 🔧 Habilidades  
 ✅ **Análise de Dados:** Python, Pandas, SQL, Power BI, Apache Spark  
-✅ **Back-end:** FastAPI, Express, PostgreSQL  
+✅ **Back-end:** FastAPI, Express, PostgreSQL, C# 
 ✅ **Front-end:** React, Typescript, JavaScript  
 ✅ **Versionamento:** Git, GitHub  
 
