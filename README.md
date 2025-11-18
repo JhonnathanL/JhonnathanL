@@ -1,6 +1,6 @@
 ## Sobre mim  
 🎯 **Desenvolvedor de Sistemas | Desenvolvedor de Software**  
-📊 **Experiência:** 3 anos em desenvolvimento Full Stack    
+📊 **Experiência:** 4 anos em desenvolvimento Full Stack    
 💡 **Stack:** Python | SQL | FastAPI | Front-end  
 
 ### 🚀 Sobre mim  
